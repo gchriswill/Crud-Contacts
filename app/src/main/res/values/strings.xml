@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Crud Contacts</string>
+    <string name="delete_all">Delete all contacts</string>
+</resources>
